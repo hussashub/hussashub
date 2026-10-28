@@ -1,10 +1,10 @@
-# Hi, I'm Hussa 👋
+# Hi, I'm Hussa 💌
 
 **Physician · Medical Education · Digital Health · Creative Technology**
 
 I'm an Internal Medicine physician interested in the intersection of clinical practice, education, technology, and AI.
 
-I enjoy building useful digital resources, experimenting with new tools, and finding creative ways to make complex information easier to understand.
+I enjoy building useful pretty digital resources, experimenting with new tools, and finding creative ways to make complex information easier to understand.
 
 ## What I'm interested in
 
