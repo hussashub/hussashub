@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hussa 👋
 
-<!--
-**hussashub/hussashub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physician · Medical Education · Digital Health · Creative Technology**
 
-Here are some ideas to get you started:
+I'm an Internal Medicine physician interested in the intersection of clinical practice, education, technology, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building useful digital resources, experimenting with new tools, and finding creative ways to make complex information easier to understand.
+
+## What I'm interested in
+
+- 🩺 Clinical medicine and medical education
+- 💻 Digital health and useful web applications
+- 🤖 AI-assisted workflows and automation
+- 🎨 Design, creativity, and personal projects
+
+## Projects
+
+### MOC — Medical Resources
+
+A digital space for practical medical knowledge and clinical learning.
+
+[Explore MOC](https://themoc.co)
+
+## Let's connect
+
+I'm always interested in thoughtful ideas that bring medicine, learning, and technology together.
+
+📷 [Instagram — @hussaoncall](https://www.instagram.com/hussaoncall)
